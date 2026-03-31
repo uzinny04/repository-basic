@@ -1,5 +1,5 @@
 # repository-basic
-test basic repository functions (Al_Appl)
+test basic repository functions (MP_Appl)
 
 ### 이 repository는
 * Remote repository의 생성
